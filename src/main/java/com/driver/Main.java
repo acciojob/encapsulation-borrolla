@@ -7,7 +7,7 @@ public class Main {
         //'name' has private access in 'com. driver. RWOnly'
        // System.out.println(rwonly.name);
         System.out.println(rwonly.getName());
-
+  //added line one
 
     }
   
